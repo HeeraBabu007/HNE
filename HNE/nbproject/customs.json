@@ -1,0 +1,11 @@
+{
+    "elements": {
+        "add": {},
+        "include": {
+            "attributes": {
+                "page": {}
+            }
+        }
+    },
+    "attributes": {}
+}
